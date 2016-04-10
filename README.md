@@ -21,3 +21,10 @@ To publish manually:
 scripts/make.pl
 scripts/publish.sh
 ```
+
+## To do
+
+* Add to the publish hook a command to purge the cloudflare cache
+  ([described
+  here](https://www.cloudflare.com/a/caching/nicolausmaloney.org#purge_cache))
+  

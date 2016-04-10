@@ -11,6 +11,7 @@ my $DIST = "$BASE/dist";
 my $SRC = "$BASE/src";
 my $LIB = "$BASE/lib";
 
+print "Making $DIST\n";
 remove_tree($DIST);
 make_path($DIST);
 
