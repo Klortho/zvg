@@ -1,0 +1,14 @@
+body {
+  background-color: #CCC; 
+  margin: 0;
+  padding: 0;
+}
+
+#paper {
+  position: absolute;
+  background-color: #EEE; 
+  bottom: 10px; 
+  left: 10px; 
+  top: 10px; 
+  right: 10px;
+}
